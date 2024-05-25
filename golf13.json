@@ -5,7 +5,7 @@
         "name": "Tiger Woods",
         "birth_date": "1975-12-30",
         "Position": "1",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://cdn.britannica.com/48/223048-050-3AAA8EB6/Golfer-Tiger-Woods-Masters-Augusta-Georgia-2019.jpg"
       },
       {
@@ -13,7 +13,7 @@
         "name": "Phil Mickelson",
         "birth_date": "1970-06-16",
         "Position": "2",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://golf.com/wp-content/uploads/2024/05/GettyImages-2150256178-1024x576.jpg"
       },
       {
@@ -21,7 +21,7 @@
         "name": "Rory McIlroy",
         "birth_date": "1989-05-04",
         "Position": "3",
-        "Country": "Northern Ireland",
+        "International": "Northern Ireland",
         "Poster": "https://i.pinimg.com/236x/3d/74/26/3d7426f39a90afc5a73b72d413e0fc34.jpg"
       },
       {
@@ -29,7 +29,7 @@
         "name": "Dustin Johnson",
         "birth_date": "1984-06-22",
         "Position": "4",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://i.pinimg.com/236x/7b/0c/0e/7b0c0e8a07ef70f330c43f3c37f8dd42.jpg"
       },
       {
@@ -37,7 +37,7 @@
         "name": "Justin Thomas",
         "birth_date": "1993-04-29",
         "Position": "5",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://i.pinimg.com/236x/ba/3d/a4/ba3da407124b791c3a32650d782358e8.jpg"
       },
       {
@@ -45,7 +45,7 @@
         "name": "Brooks Koepka",
         "birth_date": "1990-05-03",
         "Position": "6",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://i.pinimg.com/236x/39/63/8e/39638e6d4af9405d0c33ea4872e95f9d.jpg"
       },
       {
@@ -53,7 +53,7 @@
         "name": "Bryson DeChambeau",
         "birth_date": "1993-09-16",
         "Position": "7",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://i.pinimg.com/236x/1e/76/93/1e7693f6702f3903f91ed662cbf0336a.jpg"
       },
       {
@@ -61,7 +61,7 @@
         "name": "Jordan Spieth",
         "birth_date": "1993-07-27",
         "Position": "8",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://i.pinimg.com/236x/ee/55/b8/ee55b891e375098729047c7dd81e90e9.jpg"
       },
       {
@@ -69,7 +69,7 @@
         "name": "Jon Rahm",
         "birth_date": "1994-11-10",
         "Position": "9",
-        "Country": "Spain",
+        "International": "Spain",
         "Poster": "https://i.pinimg.com/236x/b9/14/f6/b914f6c3b15ad665659c9ce6a7501bce.jpg"
       },
       {
@@ -77,7 +77,7 @@
         "name": "Xander Schauffele",
         "birth_date": "1993-10-25",
         "Position": "10",
-        "Country": "USA",
+        "International": "USA",
         "Poster": "https://i.pinimg.com/236x/c6/8d/81/c68d8158cf0c2f0d403e8fdfe86ea876.jpg"
       }
     ]
